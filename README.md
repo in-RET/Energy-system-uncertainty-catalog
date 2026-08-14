@@ -248,4 +248,6 @@ Important: The license applies to the original material contained in this reposi
 
 If you use this catalog in your research, please cite:
 
+R. Bala Krishnan, “Energy System Uncertainty Catalog”. Zenodo, Aug. 14, 2026. doi: 10.5281/zenodo.21931004.
+
 
