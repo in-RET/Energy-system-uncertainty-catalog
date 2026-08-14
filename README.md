@@ -212,9 +212,11 @@ Therefore, users should assess the applicability of each parameter and its uncer
 
 ## Citation
 
-If you use this catalog in academic research, please cite the repository and the underlying sources listed in the `Sources` sheet.
+If you use this catalog in academic research, please cite:
 
-A formal citation will be added once the associated research publication is available.
+**R. Bala Krishnan, “Energy System Uncertainty Catalog”. Zenodo, Aug. 14, 2026. doi: 10.5281/zenodo.21931004.**
+
+and the underlying sources listed in the `Sources` sheet.
 
 ## Contributing
 
@@ -243,11 +245,3 @@ License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 Please cite this repository and the associated publication when using the catalog in academic or other research work.
 
 Important: The license applies to the original material contained in this repository. Third-party data, publications, figures, or other externally sourced material remain subject to their respective licenses and copyright conditions.
-
-## Citation
-
-If you use this catalog in your research, please cite:
-
-R. Bala Krishnan, “Energy System Uncertainty Catalog”. Zenodo, Aug. 14, 2026. doi: 10.5281/zenodo.21931004.
-
-
