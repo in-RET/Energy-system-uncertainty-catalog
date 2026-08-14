@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "Energy System Uncertainty Catalog"
+type: dataset
+
+authors:
+
+* family-names: "Bala Krishnan"
+  given-names: "Rohith"
+
+version: 1.0.0
+date-released: 2026-08-14
+
+doi: "10.5281/zenodo.21931004"
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/in-RET/Energy-system-uncertainty-catalog.git"
+
+url: "https://doi.org/10.5281/zenodo.21931004"
+
+abstract: >
+A catalog of uncertainty parameters for energy system modelling,
+developed as part of doctoral research. The catalog provides a
+structured collection of uncertainty parameters to support uncertainty
+analysis, sensitivity analysis, and the identification of influential
+parameters in energy system models.
+
+keywords:
+
+* uncertainty analysis
+* sensitivity analysis
+* energy system modelling
+* energy systems
+* uncertainty parameters
+* global sensitivity analysis
+* Sobol analysis
+
+preferred-citation:
+type: dataset
+authors:
+- family-names: "Bala Krishnan"
+given-names: "Rohith"
+title: "Energy System Uncertainty Catalog"
+version: 1.0.0
+year: 2026
+doi: "10.5281/zenodo.21931004"
+url: "https://doi.org/10.5281/zenodo.21931004"
+license: "CC-BY-4.0"
